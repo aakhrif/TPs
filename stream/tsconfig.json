@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",             // moderne JS Features
+    "module": "CommonJS",           // Node.js Standard
+    "rootDir": "./src",             // Quelldateien
+    "outDir": "./dist",             // kompiliertes JS
+    "strict": true,                 // alle Strict-Checks
+    "esModuleInterop": true,        // sauberer Import von CommonJS
+    "skipLibCheck": true,           // externe Typen nicht prüfen
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": ["src/**/*"],          // alles in src/
+  "exclude": ["node_modules", "dist"]
+}

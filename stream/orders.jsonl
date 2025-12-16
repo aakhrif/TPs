@@ -1,0 +1,4 @@
+{"id":1,"customer":"Alice","amount":120,"status":"paid"}
+{"id":2,"customer":"Bob","amount":50,"status":"pending"}
+{"id":3,"customer":"Charlie","amount":75,"status":"paid"}
+{"id":4,"customer":"Dana","amount":200,"status":"cancelled"}

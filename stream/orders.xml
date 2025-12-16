@@ -1,0 +1,10 @@
+<order>
+  <id>1</id>
+  <customer>Alice</customer>
+  <amount>120</amount>
+</order>
+<order>
+  <id>3</id>
+  <customer>Charlie</customer>
+  <amount>75</amount>
+</order>
